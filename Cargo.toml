@@ -1,0 +1,8 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["emil.vidmark@arcticgroup.se <emil.vidmark@arcticgroup.se>"]
+
+[dependencies]
+rand = "*"
+piston_window = "*"
